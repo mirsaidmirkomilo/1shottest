@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69f56665.css",
+    "main.js": "/static/js/main.af5d28b9.js",
+    "static/media/ReSquareRegular.ttf": "/static/media/ReSquareRegular.4c52cafdf61313fcf1b4.ttf",
+    "static/media/ReSquareMedium.ttf": "/static/media/ReSquareMedium.71be3e07c65b482435a4.ttf",
+    "index.html": "/index.html",
+    "main.69f56665.css.map": "/static/css/main.69f56665.css.map",
+    "main.af5d28b9.js.map": "/static/js/main.af5d28b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69f56665.css",
+    "static/js/main.af5d28b9.js"
+  ]
+}
